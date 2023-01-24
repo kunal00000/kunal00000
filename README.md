@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Verma</h1>
-<h3 align="center">I am a Frontend Web Developer with a passion for open-source, fascinated by applications of AI/ML. I am also eager to explore blockchain and web3 space. With experience in contributing to various projects, I am always looking for new ways to expand my skillset. Recently, I have been actively exploring technical writing and honing my skills through writing blogs and articles.</h3>
+<p align="center">I am a Frontend Web Developer with a passion for open-source, fascinated by applications of AI/ML. I am also eager to explore blockchain and web3 space. With experience in contributing to various projects, I am always looking for new ways to expand my skillset. Recently, I have been actively exploring technical writing and honing my skills through writing blogs and articles.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal00000&label=Profile%20views&color=0e75b6&style=flat" alt="kunal00000" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Next Js, GraphQl, Technical writing**
 
-- 📝 I regularly write articles on [https://kunalverma2468.hashnode.dev/](https://kunalverma2468.hashnode.dev/)
+- 📝 I regularly write articles on [**Hashnode**](https://kunalverma2468.hashnode.dev/)
 
 - 💬 Ask me about **Opensource and Web Development**
 
-- 📫 How to reach me *kunalverma01357@gmail.com*
+- 📫 How to reach me *[email](kunalverma01357@gmail.com)*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u08bkqWbGyleVy6rlN5mzcLpZpuEFlin/view?usp=drivesdk](https://drive.google.com/file/d/1u08bkqWbGyleVy6rlN5mzcLpZpuEFlin/view?usp=drivesdk)
+- 📄 Know about my experiences [**here**](https://drive.google.com/file/d/1u08bkqWbGyleVy6rlN5mzcLpZpuEFlin/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
