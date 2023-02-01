@@ -24,8 +24,8 @@
 ## 📒 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [My First Hackathon Experience](https://kunalverma2468.hashnode.dev/my-first-hackathon-experience)
-- [Simplifying Form Handling and Validation in React: How the useForm Hook Eased My Process](https://kunalverma2468.hashnode.dev/simplifying-form-handling-and-validation-in-react-how-the-useform-hook-eased-my-process)
-- [A Step-by-Step Guide to Effortless Setup and Collaboration using Github Codespaces](https://kunalverma2468.hashnode.dev/a-step-by-step-guide-to-effortless-setup-and-collaboration-using-github-codespaces)
+- [Form Handling and Validation in React: `useForm` Hook](https://kunalverma2468.hashnode.dev/form-handling-and-validation-in-react-useform-hook)
+- [Setup and Collaboration using Github Codespaces](https://kunalverma2468.hashnode.dev/setup-and-collaboration-using-github-codespaces)
 - [Unleash the Power of Codespaces as a Developer](https://kunalverma2468.hashnode.dev/unleash-the-power-of-codespaces-as-a-developer)
 - [Dive into the World of Open Source](https://kunalverma2468.hashnode.dev/dive-into-the-world-of-open-source)
 <!-- BLOG-POST-LIST:END -->
