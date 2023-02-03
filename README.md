@@ -23,11 +23,11 @@
 
 ## 📒 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Raising Multiple Pull Requests Simultaneously.](https://kunalverma2468.hashnode.dev/raising-multiple-pull-requests-simultaneously)
 - [Preparing For GSoC :&gt; Gathering Information](https://kunalverma2468.hashnode.dev/preparing-for-gsoc-gathering-information)
 - [My First Hackathon Experience](https://kunalverma2468.hashnode.dev/my-first-hackathon-experience)
 - [Form Handling and Validation in React: `useForm` Hook](https://kunalverma2468.hashnode.dev/form-handling-and-validation-in-react-useform-hook)
 - [Setup and Collaboration using Github Codespaces](https://kunalverma2468.hashnode.dev/setup-and-collaboration-using-github-codespaces)
-- [Unleash the Power of Codespaces as a Developer](https://kunalverma2468.hashnode.dev/unleash-the-power-of-codespaces-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
 ----
 ## 🔗 &nbsp;**Connect with me**
