@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React Js, GraphQl, Technical writing**
+- 🌱 I’m currently learning **React Js, Technical writing**
 
 - 📝 I regularly write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
