@@ -30,7 +30,7 @@
 - [Form Handling and Validation in React: `useForm` Hook](https://kunalverma2468.hashnode.dev/form-handling-and-validation-in-react-useform-hook)
 <!-- BLOG-POST-LIST:END -->
 ----
-## 🔗 &nbsp;**Connect with me**
+## 🔗 &nbsp;**Socials**
 
 <p align="left"> 
 <a href="https://kunalverma2468.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="32" /></a>
