@@ -31,12 +31,13 @@
 <!-- BLOG-POST-LIST:END -->
 ----
 ## 🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://twitter.com/kunalverma2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalverma2468" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kunalverma2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunalverma2468" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://kunalverma2468.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://kunalverma2468.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kunalverma0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kunalverma0/" height="30" width="40" /></a>
-<a href="/https://kunalverma2468.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kunalverma2468.hashnode.dev/" height="30" width="40" /></a>
+
+<p align="left"> 
+<a href="https://kunalverma2468.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="32" /></a>
+<a href="https://www.linkedin.com/in/kunalverma2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> 
+<a href="https://www.twitter.com/KunalVerma2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="32" /></a>
+<a href="https://www.github.com/kunal00000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
+<a href="http://www.instagram.com/Kunaahl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="32" /></a>
 </p>
 
 <details>
