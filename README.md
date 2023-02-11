@@ -12,10 +12,6 @@
 - 📝 I regularly write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **Opensource and Web Development**
-
-- 📫 How to reach me **[email](kunalverma01357@gmail.com)**
  
 - 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1u08bkqWbGyleVy6rlN5mzcLpZpuEFlin/view?usp=drivesdk)
 
