@@ -28,24 +28,6 @@
 <a href="https://kunalverma2468.hashnode.dev/using-multiple-node-versions" title="Using Multiple Node Versions"><strong>Using Multiple Node Versions</strong></a>
 <br/> Introduction to Node Version Manager (NVM)
 NVM (Node Version Manager) is a tool that allows you to install and switch between multiple Node.js versions on your local machine. It makes it easy to manage different Node.js environments, ensuring that yo... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/raising-multiple-pull-requests-simultaneously" title="Raising Multiple Pull Requests Simultaneously."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675364651716/d4e7a520-aeb1-478d-a013-fc4e5a4357c1.jpeg" alt="Raising Multiple Pull Requests Simultaneously." width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/raising-multiple-pull-requests-simultaneously" title="Raising Multiple Pull Requests Simultaneously."><strong>Raising Multiple Pull Requests Simultaneously.</strong></a>
-<br/> It is the most difficult for a beginner to create multiple pull requests in GitHub they say that the new commits merge with the Previous Pull Request. They often request maintainers to quickly merge it so that they can work on the new issue and creat... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-gathering-information" title="Preparing For GSoC :> Gathering Information"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674648275609/c25ee244-a037-4c4c-bb53-79eb6db19aeb.webp" alt="Preparing For GSoC :> Gathering Information" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-gathering-information" title="Preparing For GSoC :> Gathering Information"><strong>Preparing For GSoC :> Gathering Information</strong></a>
-<br/> I think this series of blogs will be a good help to all the budding people out there aiming for Google Summer Of Code.
-It all began in early October 2022, when I heard about Hacktoberfest. The goal of the event was to make at least four pull requests... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/my-first-hackathon-experience" title="My First Hackathon Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674533737970/630c2303-486a-43c7-8e62-913829c7bc6a.jpeg" alt="My First Hackathon Experience" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/my-first-hackathon-experience" title="My First Hackathon Experience"><strong>My First Hackathon Experience</strong></a>
-<br/> I was amazed by the tags and posts of people on LinkedIn who had won hackathons. So, when I came across the 24-hour offline hackathon "hackCBS", also known as Delhi University's First-ever Hackathon-cum-conference, I knew I had to give it a shot ✊🏻.... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/form-handling-and-validation-in-react-useform-hook" title="Form Handling and Validation in React: `useForm` Hook"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/v_1t1DzfAUA/upload/c8d5df51f51f67d6ed976cae0f90fdc5.jpeg" alt="Form Handling and Validation in React: `useForm` Hook" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/form-handling-and-validation-in-react-useform-hook" title="Form Handling and Validation in React: `useForm` Hook"><strong>Form Handling and Validation in React: `useForm` Hook</strong></a>
-<br/> Introduction
-Recently, I was working on a project and I ran into a problem with a form with multiple input fields that were giving the same error message even when the user left the different required fields blank.To fix this problem, I started explo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
