@@ -18,13 +18,10 @@
 ----
 
 ## 📒 Latest Blog Posts 
-<!-- BLOG-POST-LIST:START -->
-- [Preparing For GSoC :&gt; Search for an Organisation to Contribute](https://kunalverma2468.hashnode.dev/preparing-for-gsoc-search-for-an-organisation-to-contribute)
-- [Using Multiple Node Versions](https://kunalverma2468.hashnode.dev/using-multiple-node-versions)
-- [Raising Multiple Pull Requests Simultaneously.](https://kunalverma2468.hashnode.dev/raising-multiple-pull-requests-simultaneously)
-- [Preparing For GSoC :&gt; Gathering Information](https://kunalverma2468.hashnode.dev/preparing-for-gsoc-gathering-information)
-- [My First Hackathon Experience](https://kunalverma2468.hashnode.dev/my-first-hackathon-experience)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+
+<!-- HASHNODE_BLOG:END -->
+
 ----
 ## 🔗 &nbsp;**Socials**
 
