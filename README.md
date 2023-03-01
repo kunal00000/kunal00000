@@ -20,14 +20,14 @@
 ## 📒 Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677600961637/a4025cde-9c35-4e10-8c47-7830328608cf.png" alt="Improve Application Performance with Vite js" width="250px" align="left" /></a>
+<a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><strong>Improve Application Performance with Vite js</strong></a>
+<br/> Introduction
+Every developer wants to create applications that are quick and efficient in today's fast-paced world. Vite.js can help with this, it is a build tool and development server that is intended to improve your workflow. It enables you to bui... </p> <br/> <br/>
+<p align="left">
 <a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-search-for-an-organisation-to-contribute" title="Preparing For GSoC :> Search for an Organisation to Contribute"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674773954685/d312833e-d9a5-49ce-a18c-ba8ebf030d63.webp" alt="Preparing For GSoC :> Search for an Organisation to Contribute" width="250px" align="left" /></a>
 <a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-search-for-an-organisation-to-contribute" title="Preparing For GSoC :> Search for an Organisation to Contribute"><strong>Preparing For GSoC :> Search for an Organisation to Contribute</strong></a>
 <br/> One of the most important steps in participating in programs like Google Summer of Code (GSOC) is finding the right open-source organization to contribute to. But with so many options available, it can be overwhelming to know where to start. In this ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/using-multiple-node-versions" title="Using Multiple Node Versions"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675715046474/f2bb0625-f5ca-46e8-895b-3b1287a9f350.jpeg" alt="Using Multiple Node Versions" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/using-multiple-node-versions" title="Using Multiple Node Versions"><strong>Using Multiple Node Versions</strong></a>
-<br/> Introduction to Node Version Manager (NVM)
-NVM (Node Version Manager) is a tool that allows you to install and switch between multiple Node.js versions on your local machine. It makes it easy to manage different Node.js environments, ensuring that yo... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
