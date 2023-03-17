@@ -46,7 +46,7 @@ Every developer wants to create applications that are quick and efficient in tod
 <details>
 <summary> 
   
-## 🛠 Languages and Tools: 
+### 🛠 Languages and Tools: 
   
 </summary>
 
@@ -58,7 +58,7 @@ Every developer wants to create applications that are quick and efficient in tod
 <details>
 <summary>
   
-## 📊 My Github Stats 
+### 📊 My Github Stats 
  
 </summary>  
   
@@ -75,7 +75,7 @@ Every developer wants to create applications that are quick and efficient in tod
 
 <div align="center">
   
-## ❤ Views and Followers
+### ❤ Views and Followers
   
 <a href="https://github.com/kunal00000?tab=followers"><img src="https://img.shields.io/github/followers/kunal00000?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kunal00000)  
 </div>
