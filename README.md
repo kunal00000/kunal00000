@@ -20,14 +20,15 @@
 ## 📒 Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680851751515/b90f3376-5cf0-46ea-8f68-bba303714e95.png" alt="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special" width="250px" align="left" /></a>
+<a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><strong>Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special</strong></a>
+<br/> Introduction
+Git version control is now a standard tool in the toolbox of every modern developer. Our fingers' muscle memory now includes commands like git add, git commit and git push. But despite how useful the "more advanced" Git features can be, ... </p> <br/> <br/>
+<p align="left">
 <a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677600961637/a4025cde-9c35-4e10-8c47-7830328608cf.png" alt="Improve Application Performance with Vite js" width="250px" align="left" /></a>
 <a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><strong>Improve Application Performance with Vite js</strong></a>
 <br/> Introduction
 Every developer wants to create applications that are quick and efficient in today's fast-paced world. Vite.js can help with this, it is a build tool and development server that is intended to improve your workflow. It enables you to bui... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-search-for-an-organisation-to-contribute" title="Preparing For GSoC :> Search for an Organisation to Contribute"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674773954685/d312833e-d9a5-49ce-a18c-ba8ebf030d63.webp" alt="Preparing For GSoC :> Search for an Organisation to Contribute" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/preparing-for-gsoc-search-for-an-organisation-to-contribute" title="Preparing For GSoC :> Search for an Organisation to Contribute"><strong>Preparing For GSoC :> Search for an Organisation to Contribute</strong></a>
-<br/> One of the most important steps in participating in programs like Google Summer of Code (GSOC) is finding the right open-source organization to contribute to. But with so many options available, it can be overwhelming to know where to start. In this ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
