@@ -32,6 +32,22 @@ Every developer wants to create applications that are quick and efficient in tod
 <!-- HASHNODE_BLOG:END -->
 
 ----
+## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#44](https://github.com/Netflix/mantis-ui/pull/44) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+2. 💪 Opened PR [#42](https://github.com/Netflix/mantis-ui/pull/42) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+3. 💪 Opened PR [#40](https://github.com/Netflix/mantis-ui/pull/40) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+4. 🎉 Merged PR [#1](https://github.com/kunal00000/mantis-ui/pull/1) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)
+5. 💪 Opened PR [#1](https://github.com/kunal00000/mantis-ui/pull/1) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)
+6. 💪 Opened PR [#37](https://github.com/Netflix/mantis-ui/pull/37) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+7. ❌ Closed PR [#36](https://github.com/Netflix/mantis-ui/pull/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+8. 🗣 Commented on [#36](https://github.com/Netflix/mantis-ui/issues/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+9. 🗣 Commented on [#36](https://github.com/Netflix/mantis-ui/issues/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+10. ❌ Reopened PR [#36](https://github.com/Netflix/mantis-ui/pull/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
+<!--END_SECTION:activity-->
+
+----
 ## 🔗 &nbsp;**Socials**
 
 <p align="left"> 
@@ -73,22 +89,6 @@ Every developer wants to create applications that are quick and efficient in tod
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal00000&show_icons=true&locale=en&layout=compact" alt="kunal00000" />
   <br/>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/Netflix/mantis-ui/pull/44) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-2. 💪 Opened PR [#42](https://github.com/Netflix/mantis-ui/pull/42) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-3. 💪 Opened PR [#40](https://github.com/Netflix/mantis-ui/pull/40) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-4. 🎉 Merged PR [#1](https://github.com/kunal00000/mantis-ui/pull/1) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)
-5. 💪 Opened PR [#1](https://github.com/kunal00000/mantis-ui/pull/1) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)
-6. 💪 Opened PR [#37](https://github.com/Netflix/mantis-ui/pull/37) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-7. ❌ Closed PR [#36](https://github.com/Netflix/mantis-ui/pull/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-8. 🗣 Commented on [#36](https://github.com/Netflix/mantis-ui/issues/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-9. 🗣 Commented on [#36](https://github.com/Netflix/mantis-ui/issues/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-10. ❌ Reopened PR [#36](https://github.com/Netflix/mantis-ui/pull/36) in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)
-<!--END_SECTION:activity-->
-
 
 <div align="center">
 
