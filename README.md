@@ -81,6 +81,7 @@ Every developer wants to create applications that are quick and efficient in tod
 
 
 <div align="center">
+
 ### ❤ Views and Followers
   
 <a href="https://github.com/kunal00000?tab=followers"><img src="https://img.shields.io/github/followers/kunal00000?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kunal00000)  
