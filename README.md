@@ -74,8 +74,13 @@ Every developer wants to create applications that are quick and efficient in tod
   <br/>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
 <div align="center">
-  
 ### ❤ Views and Followers
   
 <a href="https://github.com/kunal00000?tab=followers"><img src="https://img.shields.io/github/followers/kunal00000?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kunal00000)  
