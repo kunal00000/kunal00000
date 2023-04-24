@@ -78,6 +78,7 @@ Every developer wants to create applications that are quick and efficient in tod
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[04/24 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[04/24 15:13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LeandroLS/github-activity-readme](https://github.com/LeandroLS/github-activity-readme)  
 `[04/24 15:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Carol42/github-activity-readme](https://github.com/Carol42/github-activity-readme)  
 `[04/24 15:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EndBug/github-activity-readme](https://github.com/EndBug/github-activity-readme)  
@@ -87,10 +88,10 @@ Every developer wants to create applications that are quick and efficient in tod
 `[04/22 23:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[04/22 19:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/22 18:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
-`[04/22 18:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 
 <details><summary>Show More</summary>
 
+`[04/22 18:07]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/22 17:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/21 20:43]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/21 20:42]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
@@ -293,7 +294,6 @@ Every developer wants to create applications that are quick and efficient in tod
 `[02/02 17:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/Git-First-Contributions](https://github.com/kunal00000/Git-First-Contributions)  
 `[02/02 16:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dhyeythumar/awesome-readme-tools](https://github.com/dhyeythumar/awesome-readme-tools)  
 `[02/02 15:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Git-First-Contributions/tree/main) in [kunal00000/Git-First-Contributions](https://github.com/kunal00000/Git-First-Contributions)  
-`[02/02 15:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Git-First-Contributions](https://github.com/kunal00000/Git-First-Contributions)  
 
 </details>
 <!--END_SECTION:activity-->
