@@ -32,9 +32,6 @@ Every developer wants to create applications that are quick and efficient in tod
 <!-- HASHNODE_BLOG:END -->
 
 ----
-## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
-
-----
 ## 🔗 &nbsp;**Socials**
 
 <p align="left"> 
@@ -76,6 +73,9 @@ Every developer wants to create applications that are quick and efficient in tod
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal00000&show_icons=true&locale=en&layout=compact" alt="kunal00000" />
   <br/>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+
+----
+## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
 `[04/24 14:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
