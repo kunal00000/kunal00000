@@ -67,11 +67,7 @@ Every developer wants to create applications that are quick and efficient in tod
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal00000&" alt="kunal00000" />
   </p>
- 
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal00000&show_icons=true&locale=en" alt="kunal00000" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal00000&show_icons=true&locale=en&layout=compact" alt="kunal00000" />
-  <br/>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal00000&show_icons=true&locale=en" alt="kunal00000" />  
 </details>
 
 ----
