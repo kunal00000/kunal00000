@@ -74,7 +74,7 @@ Every developer wants to create applications that are quick and efficient in tod
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
-`[04/27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
+`[04/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[04/27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[04/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
