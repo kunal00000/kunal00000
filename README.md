@@ -74,6 +74,7 @@ Every developer wants to create applications that are quick and efficient in tod
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[05/10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#328`](https://github.com//vitessio/arewefastyet/issues/328 'Migrate the UI from Golang to React and rework the UI') in [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet)  
 `[05/07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer) to [kunal00000/blockchain-explorer](https://github.com/kunal00000/blockchain-explorer)  
 `[04/30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[04/29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
@@ -83,10 +84,10 @@ Every developer wants to create applications that are quick and efficient in tod
 `[04/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/github-activity-readme](https://github.com/kunal00000/github-activity-readme)  
-`[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 
 <details><summary>Show More</summary>
 
+`[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/github-activity-readme](https://github.com/kunal00000/github-activity-readme)  
 `[04/24]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme) to [kunal00000/github-activity-readme](https://github.com/kunal00000/github-activity-readme)  
 `[04/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
@@ -97,7 +98,6 @@ Every developer wants to create applications that are quick and efficient in tod
 `[04/24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EndBug/github-activity-readme](https://github.com/EndBug/github-activity-readme)  
 `[04/24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cheesits456/github-activity-readme](https://github.com/cheesits456/github-activity-readme)  
 `[04/24]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#42`](https://github.com//Netflix/mantis-ui/pull/42 'Create Cluster Details Page') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
-`[04/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 
 </details>
 <!--END_SECTION:activity-->
