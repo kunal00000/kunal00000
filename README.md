@@ -9,11 +9,10 @@
 
 - 🌱 I’m currently learning **React Js, Technical writing**
 
-- 📝 I regularly write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
+- 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
- 
-- 📄 Know about my experiences [**resume**](https://drive.google.com/file/d/1u08bkqWbGyleVy6rlN5mzcLpZpuEFlin/view?usp=drivesdk)
+
 
 ----
 
