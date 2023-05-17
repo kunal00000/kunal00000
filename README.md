@@ -19,15 +19,14 @@
 ## 📒 Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode Ai..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684284816171/dd68dc2a-68c1-4c71-a96c-7f1ebe8f2caa.jpeg" alt="Improve Your Content Writing with Hashnode Ai..." width="250px" align="left" /></a>
+<a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode Ai..."><strong>Improve Your Content Writing with Hashnode Ai...</strong></a>
+<br/> As a writer, I work super hard to make my stuff fun and easy to read. But man, it's tough to get people's attention these days with everyone hooked on short-form content like YouTube shorts, Reels, and TikTok. Like, who's got time for long reads anym... </p> <br/> <br/>
+<p align="left">
 <a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680851751515/b90f3376-5cf0-46ea-8f68-bba303714e95.png" alt="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special" width="250px" align="left" /></a>
 <a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><strong>Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special</strong></a>
 <br/> Introduction
 Git version control is now a standard tool in the toolbox of every modern developer. Our fingers' muscle memory now includes commands like git add, git commit and git push. But despite how useful the "more advanced" Git features can be, ... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677600961637/a4025cde-9c35-4e10-8c47-7830328608cf.png" alt="Improve Application Performance with Vite js" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/improve-application-performance-with-vite-js" title="Improve Application Performance with Vite js"><strong>Improve Application Performance with Vite js</strong></a>
-<br/> Introduction
-Every developer wants to create applications that are quick and efficient in today's fast-paced world. Vite.js can help with this, it is a build tool and development server that is intended to improve your workflow. It enables you to bui... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
