@@ -73,7 +73,7 @@ Git version control is now a standard tool in the toolbox of every modern develo
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
-`[05/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
+`[05/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
 `[05/10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[05/10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#328`](https://github.com//vitessio/arewefastyet/issues/328 'Migrate the UI from Golang to React and rework the UI') in [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet)  
 `[05/07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [hyperledger-labs/blockchain-explorer](https://github.com/hyperledger-labs/blockchain-explorer) to [kunal00000/blockchain-explorer](https://github.com/kunal00000/blockchain-explorer)  
