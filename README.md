@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React Js, Technical writing**
-
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
