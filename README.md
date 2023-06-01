@@ -57,6 +57,7 @@ Git version control is now a standard tool in the toolbox of every modern develo
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[05/31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//samagra-comms/inbound/issues/42 '[C4GT] Create Telemetry dashboard for notifications sent out') in [samagra-comms/inbound](https://github.com/samagra-comms/inbound)  
 `[05/31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[05/27]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#46`](https://github.com//Netflix/mantis-ui/pull/46 'feat: artifact zod validation done') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[05/27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`zod`](https://github.com/kunal00000/mantis-ui/tree/zod) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
@@ -66,10 +67,10 @@ Git version control is now a standard tool in the toolbox of every modern develo
 `[05/19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `kunal00000-patch-1` from [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
 `[05/19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`kunal00000-patch-1`](https://github.com/kunal00000/arewefastyet/tree/kunal00000-patch-1) in [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
 `[05/19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`kunal00000-patch`](https://github.com/kunal00000/arewefastyet/tree/kunal00000-patch) in [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
-`[05/19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet) to [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
 
 <details><summary>Show More</summary>
 
+`[05/19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet) to [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
 `[05/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[05/19]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `errorFix` from [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[05/18]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#347`](https://github.com//vitessio/arewefastyet/pull/347 'Create Benchmarking.yml') in [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet)  
@@ -80,7 +81,6 @@ Git version control is now a standard tool in the toolbox of every modern develo
 `[05/18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`errorFix`](https://github.com/kunal00000/mantis-ui/tree/errorFix) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[05/18]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [vitessio/arewefastyet](https://github.com/vitessio/arewefastyet) to [kunal00000/arewefastyet](https://github.com/kunal00000/arewefastyet)  
 `[05/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
-`[05/10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 
 </details>
 <!--END_SECTION:activity-->
