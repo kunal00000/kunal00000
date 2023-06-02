@@ -17,15 +17,15 @@
 ## 📒 Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kunalverma2468.hashnode.dev/docker-containerization" title="Docker: Simplify Application Deployment using Containerization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685667586856/3f63de2d-fcc6-49a9-a73c-0b0ede59caf1.webp" alt="Docker: Simplify Application Deployment using Containerization" width="250px" align="left" /></a>
+<a href="https://kunalverma2468.hashnode.dev/docker-containerization" title="Docker: Simplify Application Deployment using Containerization"><strong>Docker: Simplify Application Deployment using Containerization</strong></a>
+<br/> Introduction:
+During the application development process, developers work in a specific environment, commonly referred to as the development environment. However, when it comes to deploying the application in the production environment, various chall... </p> <br/> <br/>
+<p align="left">
 <a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode AI..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684284816171/dd68dc2a-68c1-4c71-a96c-7f1ebe8f2caa.jpeg" alt="Improve Your Content Writing with Hashnode AI..." width="250px" align="left" /></a>
 <a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode AI..."><strong>Improve Your Content Writing with Hashnode AI...</strong></a>
 <br/> Challenges encountered during the writing process...
 As a writer, I work super hard to make my stuff fun and easy to read. But man, it's tough to get people's attention these days with everyone hooked on short-form content like YouTube shorts, Reels,... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680851751515/b90f3376-5cf0-46ea-8f68-bba303714e95.png" alt="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special" width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/git-rebase-and-editing-past-commits-using-interactive-rebase-an-opensource-special" title="Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special"><strong>Git rebase and Editing Past Commits using Interactive rebase - An Opensource Special</strong></a>
-<br/> Introduction
-Git version control is now a standard tool in the toolbox of every modern developer. Our fingers' muscle memory now includes commands like git add, git commit and git push. But despite how useful the "more advanced" Git features can be, ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
