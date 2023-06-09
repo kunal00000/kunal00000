@@ -57,6 +57,7 @@ As a writer, I work super hard to make my stuff fun and easy to read. But man, i
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [terramate-io/terramate](https://github.com/terramate-io/terramate)  
 `[06/07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [coronasafe/teleicu_middleware](https://github.com/coronasafe/teleicu_middleware) to [kunal00000/teleicu_middleware](https://github.com/kunal00000/teleicu_middleware)  
 `[06/07]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `tempPreference` from [kunal00000/care_fe](https://github.com/kunal00000/care_fe)  
 `[06/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/care_fe](https://github.com/kunal00000/care_fe)  
@@ -66,10 +67,10 @@ As a writer, I work super hard to make my stuff fun and easy to read. But man, i
 `[06/03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [beckn/beckn-sandbox-webhook](https://github.com/beckn/beckn-sandbox-webhook) to [kunal00000/beckn-sandbox-webhook](https://github.com/kunal00000/beckn-sandbox-webhook)  
 `[06/02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [beckn/beckn-sandbox](https://github.com/beckn/beckn-sandbox) to [kunal00000/beckn-sandbox](https://github.com/kunal00000/beckn-sandbox)  
 `[06/02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5463`](https://github.com//coronasafe/care_fe/issues/5463 'User Preference: Temperature Unit') in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)  
-`[06/02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5589`](https://github.com//coronasafe/care_fe/pull/5589 'feat: Temperature preference stored in local storage') in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)  
 
 <details><summary>Show More</summary>
 
+`[06/02]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#5589`](https://github.com//coronasafe/care_fe/pull/5589 'feat: Temperature preference stored in local storage') in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)  
 `[06/02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`tempPreference`](https://github.com/kunal00000/care_fe/tree/tempPreference) in [kunal00000/care_fe](https://github.com/kunal00000/care_fe)  
 `[06/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/care_fe](https://github.com/kunal00000/care_fe)  
 `[06/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
@@ -80,7 +81,6 @@ As a writer, I work super hard to make my stuff fun and easy to read. But man, i
 `[06/01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#47`](https://github.com//Netflix/mantis-ui/pull/47 'Update PULL_REQUEST_TEMPLATE.md') in [Netflix/mantis-ui](https://github.com/Netflix/mantis-ui)  
 `[06/01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test`](https://github.com/kunal00000/mantis-ui/tree/test) in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 `[06/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#1`](https://github.com//kunal00000/mantis-ui/pull/1 'Update index.html') in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
-`[06/01]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//kunal00000/mantis-ui/pull/1 'Update index.html') in [kunal00000/mantis-ui](https://github.com/kunal00000/mantis-ui)  
 
 </details>
 <!--END_SECTION:activity-->
