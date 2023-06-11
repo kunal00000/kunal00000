@@ -17,15 +17,15 @@
 ## 📒 Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://kunalverma2468.hashnode.dev/understanding-supply-and-demand-in-the-stock-market" title="Understanding Supply and Demand in the Stock Market"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686441784782/bebbf87b-959c-452e-928f-6d32d40f4476.png" alt="Understanding Supply and Demand in the Stock Market" width="250px" align="left" /></a>
+<a href="https://kunalverma2468.hashnode.dev/understanding-supply-and-demand-in-the-stock-market" title="Understanding Supply and Demand in the Stock Market"><strong>Understanding Supply and Demand in the Stock Market</strong></a>
+<br/> Introduction
+In this blog, we will explore the fundamental concept of demand and supply in the context of the stock market. We will use a relatable product, fruits, to help illustrate how the interplay between demand and supply affects prices and mar... </p> <br/> <br/>
+<p align="left">
 <a href="https://kunalverma2468.hashnode.dev/docker-containerization" title="Docker: Simplify Application Deployment using Containerization"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1685667586856/3f63de2d-fcc6-49a9-a73c-0b0ede59caf1.webp" alt="Docker: Simplify Application Deployment using Containerization" width="250px" align="left" /></a>
 <a href="https://kunalverma2468.hashnode.dev/docker-containerization" title="Docker: Simplify Application Deployment using Containerization"><strong>Docker: Simplify Application Deployment using Containerization</strong></a>
 <br/> Introduction:
 During the application development process, developers work in a specific environment, commonly referred to as the development environment. However, when it comes to deploying the application in the production environment, various chall... </p> <br/> <br/>
-<p align="left">
-<a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode AI..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684284816171/dd68dc2a-68c1-4c71-a96c-7f1ebe8f2caa.jpeg" alt="Improve Your Content Writing with Hashnode AI..." width="250px" align="left" /></a>
-<a href="https://kunalverma2468.hashnode.dev/kunal-ai" title="Improve Your Content Writing with Hashnode AI..."><strong>Improve Your Content Writing with Hashnode AI...</strong></a>
-<br/> Challenges encountered during the writing process...
-As a writer, I work super hard to make my stuff fun and easy to read. But man, it's tough to get people's attention these days with everyone hooked on short-form content like YouTube shorts, Reels,... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ----
