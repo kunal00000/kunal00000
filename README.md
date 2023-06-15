@@ -2,10 +2,19 @@
 
   <img align="right" width="27%" src="https://user-images.githubusercontent.com/92316166/214949771-597329d4-51ac-4afe-af2a-12454d26bc57.png">
 
+- 3rd year B-Tech at Delhi Technilogical University
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+----
+## OpenSource Contributions
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/Netflix/mantis-ui-blue?style=flat-square)](https://github.com/Netflix/mantis-ui) | ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/mantis-ui?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/Netflix/mantis-ui?style=flat-square) | <[Netflix/mantis-ui/pull-request](https://github.com/Netflix/mantis-ui/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Akunal00000)> |
+| [![Github Repo](https://img.shields.io/badge/coronasafe/care-fe-blue?style=flat-square)](https://github.com/coronasafe/care_fe) | ![GitHub Repo stars](https://img.shields.io/github/stars/coronasafe/care_fe?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/coronasafe/care_fe?style=flat-square) | <[coronasafe/care_fe/pull-request](https://github.com/coronasafe/care_fe/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Akunal00000)> |
+| [![Github Repo](https://img.shields.io/badge/OpenBeta/open-tacos-blue?style=flat-square)](https://github.com/OpenBeta/open-tacos) | ![GitHub Repo stars](https://img.shields.io/github/stars/OpenBeta/open-tacos?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/OpenBeta/open-tacos?style=flat-square) | <[OpenBeta/open-tacos/pull-request](https://github.com/OpenBeta/open-tacos/pulls?q=is%3Apr+author%3Akunal00000+)> |
+| [![Github Repo](https://img.shields.io/badge/EOSuiux/user-story-blue?style=flat-square)](https://github.com/EOS-uiux-Solutions/user-story) | ![GitHub Repo stars](https://img.shields.io/github/stars/EOS-uiux-Solutions/user-story?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/EOS-uiux-Solutions/user-story?style=flat-square) | <[EOS-uiux-Solutions/user-story/pull-request](https://github.com/EOS-uiux-Solutions/user-story/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3Akunal00000)> |
 
 ----
 
