@@ -1,11 +1,6 @@
 <h1 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Kunal Verma </h1>
 
   <img align="right" width="27%" src="https://user-images.githubusercontent.com/92316166/214949771-597329d4-51ac-4afe-af2a-12454d26bc57.png">
--> I am a Frontend Web Developer with a passion for open-source, fascinated by applications of AI/ML. <br/> -> I am also eager to explore blockchain and web3 space. With experience in contributing to various projects, I am always looking for new ways to expand my skillset.<br/> -> Recently, I have been actively exploring technical writing and honing my skills through writing blogs and articles.
-
-----
-
-## 🙋‍♂️ About Me
 
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
