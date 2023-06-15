@@ -94,5 +94,5 @@ During the application development process, developers work in a specific enviro
 
 ### ❤ Views and Followers
   
-<a href="https://github.com/kunal00000?tab=followers"><img src="https://img.shields.io/github/followers/kunal00000?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/kunal00000)  
+<a href="https://github.com/kunal00000?tab=followers"><img src="https://img.shields.io/github/followers/kunal00000?label=Followers&style=social" alt="GitHub Badge"></a>   ![](https://komarev.com/ghpvc/?username=kunal00000&color=grey&style=flat-square)  
 </div>
