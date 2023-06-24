@@ -61,6 +61,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[06/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments) to [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
@@ -70,10 +71,10 @@ During the application development process, developers work in a specific enviro
 `[06/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/LinkFree](https://github.com/kunal00000/LinkFree)  
 `[06/17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7641`](https://github.com//EddieHubCommunity/LinkFree/pull/7641 'Create KunalVerma.json') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
 `[06/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2003` commits in [kunal00000/LinkFree](https://github.com/kunal00000/LinkFree)  
-`[06/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Regular-Expressions_regex](https://github.com/kunal00000/Regular-Expressions_regex)  
 
 <details><summary>Show More</summary>
 
+`[06/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Regular-Expressions_regex](https://github.com/kunal00000/Regular-Expressions_regex)  
 `[06/15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5692`](https://github.com//coronasafe/care_fe/issues/5692 'Modify the resource request page') in [coronasafe/care_fe](https://github.com/coronasafe/care_fe)  
 `[06/15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [amplication/amplication](https://github.com/amplication/amplication)  
 `[06/15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)  
@@ -84,7 +85,6 @@ During the application development process, developers work in a specific enviro
 `[06/14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions)  
 `[06/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `35` commits in [kunal00000/Week-1-assignment](https://github.com/kunal00000/Week-1-assignment)  
 `[06/14]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test`](https://github.com/kunal00000/Week-1-assignment/tree/test) in [kunal00000/Week-1-assignment](https://github.com/kunal00000/Week-1-assignment)  
-`[06/14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [actions/starter-workflows](https://github.com/actions/starter-workflows)  
 
 </details>
 <!--END_SECTION:activity-->
