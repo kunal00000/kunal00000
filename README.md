@@ -61,30 +61,30 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
+`[06/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
+`[06/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
+`[06/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
+`[06/26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [shadcn/taxonomy](https://github.com/shadcn/taxonomy) to [kunal00000/taxonomy](https://github.com/kunal00000/taxonomy)  
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
 `[06/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/TodoApp-FE/tree/main) in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
 `[06/25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
+
+<details><summary>Show More</summary>
+
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/TodoApp/tree/main) in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
-
-<details><summary>Show More</summary>
-
 `[06/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/TodoApp/tree/main) in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/19]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[06/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments) to [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-1-assignment](https://github.com/kunal00000/Week-1-assignment)  
-`[06/18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adarsh-gupta101/Desktop-app-for-ChatGPT](https://github.com/adarsh-gupta101/Desktop-app-for-ChatGPT)  
-`[06/17]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#7641`](https://github.com//EddieHubCommunity/LinkFree/pull/7641 ' updated my profile with milestone') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
-`[06/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/LinkFree](https://github.com/kunal00000/LinkFree)  
-`[06/17]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#7641`](https://github.com//EddieHubCommunity/LinkFree/pull/7641 'Create KunalVerma.json') in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)  
-`[06/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2003` commits in [kunal00000/LinkFree](https://github.com/kunal00000/LinkFree)  
 
 </details>
 <!--END_SECTION:activity-->
