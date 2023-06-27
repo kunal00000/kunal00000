@@ -1,7 +1,5 @@
 <h1 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Kunal Verma </h1>
 
-  <img align="right" width="27%" src="https://user-images.githubusercontent.com/92316166/214949771-597329d4-51ac-4afe-af2a-12454d26bc57.png">
-
 - 3rd year B-Tech at Delhi Technilogical University
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
