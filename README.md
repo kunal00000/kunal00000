@@ -59,6 +59,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/all-assignments](https://github.com/kunal00000/all-assignments)  
 `[06/28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test_workflows`](https://github.com/kunal00000/Week-2-Assignments/tree/test_workflows) in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
@@ -68,10 +69,10 @@ During the application development process, developers work in a specific enviro
 `[06/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ci_cd_workflows`](https://github.com/kunal00000/Week-2-Assignments/tree/ci_cd_workflows) in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [kunal00000/Week-1-assignment-with-tests](https://github.com/kunal00000/Week-1-assignment-with-tests)  
 `[06/28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/Week-1-assignment-with-tests](https://github.com/100xDevs-hkirat/Week-1-assignment-with-tests) to [kunal00000/Week-1-assignment-with-tests](https://github.com/kunal00000/Week-1-assignment-with-tests)  
-`[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-1-assignment](https://github.com/kunal00000/Week-1-assignment)  
 
 <details><summary>Show More</summary>
 
+`[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/Week-1-assignment](https://github.com/kunal00000/Week-1-assignment)  
 `[06/28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#17`](https://github.com//100xDevs-hkirat/all-assignments/pull/17 'Assignment Week-3') in [100xDevs-hkirat/all-assignments](https://github.com/100xDevs-hkirat/all-assignments)  
 `[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/all-assignments](https://github.com/kunal00000/all-assignments)  
 `[06/28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/all-assignments](https://github.com/100xDevs-hkirat/all-assignments) to [kunal00000/all-assignments](https://github.com/kunal00000/all-assignments)  
@@ -82,7 +83,6 @@ During the application development process, developers work in a specific enviro
 `[06/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[06/26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [shadcn/taxonomy](https://github.com/shadcn/taxonomy) to [kunal00000/taxonomy](https://github.com/kunal00000/taxonomy)  
 `[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/TodoApp-FE](https://github.com/kunal00000/TodoApp-FE)  
-`[06/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 
 </details>
 <!--END_SECTION:activity-->
