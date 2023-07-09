@@ -59,30 +59,30 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[07/08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/CourseHub-User/tree/main) in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
+`[07/08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
+`[07/08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
+`[07/08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/CourseHub-User/tree/main) in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
+`[07/08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[07/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[07/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
+
+<details><summary>Show More</summary>
+
 `[07/07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/CourseHub-BE/tree/main) in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/07]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `32` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[07/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/CourseHub-Admin/tree/main) in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[07/04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
-
-<details><summary>Show More</summary>
-
 `[07/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [kunal00000/all-assignments](https://github.com/kunal00000/all-assignments)  
 `[07/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/TodoApp](https://github.com/kunal00000/TodoApp)  
 `[07/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/all-assignments](https://github.com/kunal00000/all-assignments)  
 `[06/28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
 `[06/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`test_workflows`](https://github.com/kunal00000/Week-2-Assignments/tree/test_workflows) in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
-`[06/28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#211`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/211 'Checking automated tests') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
-`[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
-`[06/28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#211`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/211 'Checking automated tests') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
-`[06/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ci_cd_workflows`](https://github.com/kunal00000/Week-2-Assignments/tree/ci_cd_workflows) in [kunal00000/Week-2-Assignments](https://github.com/kunal00000/Week-2-Assignments)  
-`[06/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [kunal00000/Week-1-assignment-with-tests](https://github.com/kunal00000/Week-1-assignment-with-tests)  
 
 </details>
 <!--END_SECTION:activity-->
