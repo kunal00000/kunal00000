@@ -1,6 +1,6 @@
 <h1 align="left"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Kunal Verma </h1>
 
-- 3rd year B-Tech at Delhi Technilogical University
+- 3rd year B-Tech at Delhi Technilogical University (Majors in Mathematics and Computing)
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
