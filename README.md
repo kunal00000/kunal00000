@@ -59,30 +59,30 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[07/18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)  
+`[07/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
+`[07/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
+`[07/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
+`[07/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
+`[07/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Websocket-server](https://github.com/kunal00000/Websocket-server)  
 `[07/16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Websocket-server/tree/main) in [kunal00000/Websocket-server](https://github.com/kunal00000/Websocket-server)  
 `[07/16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Websocket-server](https://github.com/kunal00000/Websocket-server)  
 `[07/13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
+
+<details><summary>Show More</summary>
+
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
-
-<details><summary>Show More</summary>
-
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
 `[07/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/CourseHub-BE](https://github.com/kunal00000/CourseHub-BE)  
 `[07/10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
-`[07/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
-`[07/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
-`[07/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
-`[07/08]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/CourseHub-User/tree/main) in [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
-`[07/08]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/CourseHub-User](https://github.com/kunal00000/CourseHub-User)  
-`[07/08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 
 </details>
 <!--END_SECTION:activity-->
