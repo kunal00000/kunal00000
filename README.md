@@ -2,7 +2,6 @@
 
 - 3rd year B-Tech at Delhi Technilogical University (Majors in Mathematics and Computing)
 - 📝 I write articles on **[Hashnode](https://kunalverma2468.hashnode.dev/)**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ----
