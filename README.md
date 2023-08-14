@@ -58,30 +58,30 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
+`[08/13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/next-course-ecommerce/tree/main) in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
+`[08/13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
+`[08/13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-10.2](https://github.com/100xDevs-hkirat/week-10.2) to [kunal00000/week-10.2](https://github.com/kunal00000/week-10.2)  
+`[08/13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
 `[08/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4639`](https://github.com//mantinedev/mantine/issues/4639 'Button with variant=filled is only visible on hover') in [mantinedev/mantine](https://github.com/mantinedev/mantine)  
 `[08/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-9](https://github.com/100xDevs-hkirat/week-9) to [kunal00000/week-9](https://github.com/kunal00000/week-9)  
 `[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
+
+<details><summary>Show More</summary>
+
 `[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
 `[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
 `[08/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
 `[08/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-
-<details><summary>Show More</summary>
-
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
 `[08/03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/bootstore/tree/main) in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Monorepo](https://github.com/kunal00000/Monorepo)  
-`[08/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)  
-`[08/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-`[08/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [kunal00000/assignment](https://github.com/kunal00000/assignment)  
-`[07/30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Monorepo/tree/main) in [kunal00000/Monorepo](https://github.com/kunal00000/Monorepo)  
-`[07/30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Monorepo](https://github.com/kunal00000/Monorepo)  
 
 </details>
 <!--END_SECTION:activity-->
