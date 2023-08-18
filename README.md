@@ -58,7 +58,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
-`[08/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `20` commits in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
+`[08/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
 `[08/13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/next-course-ecommerce/tree/main) in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
 `[08/13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
 `[08/13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-10.2](https://github.com/100xDevs-hkirat/week-10.2) to [kunal00000/week-10.2](https://github.com/kunal00000/week-10.2)  
