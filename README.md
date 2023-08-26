@@ -58,6 +58,19 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
+`[08/25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#430`](https://github.com//bautistaaa/typehero/pull/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
+`[08/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`millionIntegration`](https://github.com/kunal00000/typehero/tree/millionIntegration) in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+`[08/25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [bautistaaa/typehero](https://github.com/bautistaaa/typehero) to [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+`[08/25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#425`](https://github.com//bautistaaa/typehero/pull/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
+`[08/25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#425`](https://github.com//bautistaaa/typehero/issues/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
+`[08/25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#425`](https://github.com//bautistaaa/typehero/pull/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
+`[08/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+`[08/25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#556`](https://github.com//aidenybai/million/issues/556 '[$30] Integrate Million.js into Typehero') in [aidenybai/million](https://github.com/aidenybai/million)  
+`[08/25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [bautistaaa/typehero](https://github.com/bautistaaa/typehero) to [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+
+<details><summary>Show More</summary>
+
 `[08/24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `37` commits in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
 `[08/13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/next-course-ecommerce/tree/main) in [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
 `[08/13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/next-course-ecommerce](https://github.com/kunal00000/next-course-ecommerce)  
@@ -68,20 +81,7 @@ During the application development process, developers work in a specific enviro
 `[08/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
 `[08/06]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-9](https://github.com/100xDevs-hkirat/week-9) to [kunal00000/week-9](https://github.com/kunal00000/week-9)  
 `[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-
-<details><summary>Show More</summary>
-
 `[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/CourseHub-Admin](https://github.com/kunal00000/CourseHub-Admin)  
-`[08/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-`[08/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-`[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-`[08/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-`[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-`[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-`[08/03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/bootstore/tree/main) in [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-`[08/03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-`[08/03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/bootstore](https://github.com/kunal00000/bootstore)  
-`[08/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Monorepo](https://github.com/kunal00000/Monorepo)  
 
 </details>
 <!--END_SECTION:activity-->
