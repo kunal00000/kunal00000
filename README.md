@@ -58,19 +58,23 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#319`](https://github.com//Shelf-nu/shelf.nu/issues/319 '[Feature request]: Special Action workflow for PRs') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
+`[08/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#319`](https://github.com//Shelf-nu/shelf.nu/issues/319 '[Feature request]: Special Action workflow for PRs') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
+`[08/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+`[08/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`addESlint`](https://github.com/kunal00000/documenso/tree/addESlint) in [kunal00000/documenso](https://github.com/kunal00000/documenso)  
 `[08/28]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [documenso/documenso](https://github.com/documenso/documenso) to [kunal00000/documenso](https://github.com/kunal00000/documenso)  
 `[08/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs)  
 `[08/27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/27]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#430`](https://github.com//bautistaaa/typehero/pull/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/novu](https://github.com/kunal00000/novu)  
 `[08/27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+
+<details><summary>Show More</summary>
+
 `[08/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)  
 `[08/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
 `[08/26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#430`](https://github.com//bautistaaa/typehero/pull/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/26]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [novuhq/novu](https://github.com/novuhq/novu) to [kunal00000/novu](https://github.com/kunal00000/novu)  
-
-<details><summary>Show More</summary>
-
 `[08/26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3854`](https://github.com//novuhq/novu/issues/3854 '[NV-2610] [WF editor] Provide ability to rearrange steps') in [novuhq/novu](https://github.com/novuhq/novu)  
 `[08/26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#430`](https://github.com//bautistaaa/typehero/pull/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
@@ -78,10 +82,6 @@ During the application development process, developers work in a specific enviro
 `[08/25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#430`](https://github.com//bautistaaa/typehero/pull/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 `[08/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`millionIntegration`](https://github.com/kunal00000/typehero/tree/millionIntegration) in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
-`[08/25]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [bautistaaa/typehero](https://github.com/bautistaaa/typehero) to [kunal00000/typehero](https://github.com/kunal00000/typehero)  
-`[08/25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#425`](https://github.com//bautistaaa/typehero/pull/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
-`[08/25]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#425`](https://github.com//bautistaaa/typehero/issues/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
-`[08/25]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#425`](https://github.com//bautistaaa/typehero/pull/425 'feat: integrate million js automode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
 
 </details>
 <!--END_SECTION:activity-->
