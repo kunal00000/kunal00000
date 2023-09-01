@@ -52,6 +52,15 @@ During the application development process, developers work in a specific enviro
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal00000&" alt="kunal00000" />
   </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal00000&show_icons=true&locale=en" alt="kunal00000" />  
+  <div style="text-align: center;">
+    <a href="https://quine.sh/profile/kunal00000">
+        <img src="https://stats.quine.sh/kunal00000/github" alt="Kunal's GitHub stats" width="350px">
+    </a>
+</div>
+
+
+<a href="https://quine.sh/profile/kunal00000" align="center"><img src="https://stats.quine.sh/kunal00000/verified-languages?simple=true" alt="Kunal's language experiences" width="840px"></a>
+
 </details>
 
 ----
