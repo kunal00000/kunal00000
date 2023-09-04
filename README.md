@@ -67,8 +67,19 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)  
+`[09/03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aidenybai/million](https://github.com/aidenybai/million) to [kunal00000/million](https://github.com/kunal00000/million)  
+`[09/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
+`[09/03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#556`](https://github.com//aidenybai/million/issues/556 '[$30] Integrate Million.js into Typehero') in [aidenybai/million](https://github.com/aidenybai/million)  
+`[09/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
+`[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vriteio/vrite](https://github.com/vriteio/vrite)  
+`[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nektos/act](https://github.com/nektos/act)  
+`[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)  
 `[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
 `[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
+
+<details><summary>Show More</summary>
+
 `[09/02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-13-sql](https://github.com/100xDevs-hkirat/week-13-sql) to [kunal00000/week-13-sql](https://github.com/kunal00000/week-13-sql)  
 `[09/02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/postgres_init/tree/main) in [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
 `[09/02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
@@ -77,20 +88,9 @@ During the application development process, developers work in a specific enviro
 `[09/02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
 `[09/02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
 `[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/shelf.nu](https://github.com/kunal00000/shelf.nu)  
-
-<details><summary>Show More</summary>
-
 `[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
 `[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
 `[09/01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [highlight/highlight](https://github.com/highlight/highlight) to [kunal00000/highlight](https://github.com/kunal00000/highlight)  
-`[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
-`[09/01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
-`[09/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `128` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
-`[09/01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#430`](https://github.com//bautistaaa/typehero/issues/430 'feat: integrate million js automatic mode') in [bautistaaa/typehero](https://github.com/bautistaaa/typehero)  
-`[09/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
-`[08/29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
 
 </details>
 <!--END_SECTION:activity-->
