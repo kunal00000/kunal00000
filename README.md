@@ -67,8 +67,19 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//triggerdotdev/jsonhero-web/issues/15 'Chore: upgrade to latest remix') in [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web)  
+`[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8230`](https://github.com//prisma/prisma/issues/8230 'Cannot leave user/host blank in DATABASE_URL') in [prisma/prisma](https://github.com/prisma/prisma)  
+`[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
+`[09/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/shelf.nu](https://github.com/kunal00000/shelf.nu)  
+`[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20942`](https://github.com//prisma/prisma/issues/20942 'feat: emit warning on pasting private db url directly.') in [prisma/prisma](https://github.com/prisma/prisma)  
+`[09/04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20942`](https://github.com//prisma/prisma/pull/20942 'feat: emit warning on pasting private db url directly.') in [prisma/prisma](https://github.com/prisma/prisma)  
+`[09/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`emitWarning`](https://github.com/kunal00000/prisma/tree/emitWarning) in [kunal00000/prisma](https://github.com/kunal00000/prisma)  
+`[09/04]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [prisma/prisma](https://github.com/prisma/prisma) to [kunal00000/prisma](https://github.com/kunal00000/prisma)  
 `[09/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives)  
 `[09/03]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [aidenybai/million](https://github.com/aidenybai/million) to [kunal00000/million](https://github.com/kunal00000/million)  
+
+<details><summary>Show More</summary>
+
 `[09/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
 `[09/03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#556`](https://github.com//aidenybai/million/issues/556 '[$30] Integrate Million.js into Typehero') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
@@ -77,20 +88,9 @@ During the application development process, developers work in a specific enviro
 `[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nativefier/nativefier](https://github.com/nativefier/nativefier)  
 `[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
 `[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/create-krest](https://github.com/kunal00000/create-krest)  
-
-<details><summary>Show More</summary>
-
 `[09/02]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [100xDevs-hkirat/week-13-sql](https://github.com/100xDevs-hkirat/week-13-sql) to [kunal00000/week-13-sql](https://github.com/kunal00000/week-13-sql)  
 `[09/02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/postgres_init/tree/main) in [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
 `[09/02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/postgres_init](https://github.com/kunal00000/postgres_init)  
-`[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
-`[09/02]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/prisma_init/tree/main) in [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
-`[09/02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/prisma_init](https://github.com/kunal00000/prisma_init)  
-`[09/02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/shelf.nu](https://github.com/kunal00000/shelf.nu)  
-`[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/01]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#327`](https://github.com//Shelf-nu/shelf.nu/pull/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/01]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [highlight/highlight](https://github.com/highlight/highlight) to [kunal00000/highlight](https://github.com/kunal00000/highlight)  
 
 </details>
 <!--END_SECTION:activity-->
