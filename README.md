@@ -67,6 +67,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
 `[09/05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8230`](https://github.com//prisma/prisma/issues/8230 'Cannot leave user/host blank in DATABASE_URL') in [prisma/prisma](https://github.com/prisma/prisma)  
 `[09/05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Cap-go/capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) to [kunal00000/capacitor-inappbrowser](https://github.com/kunal00000/capacitor-inappbrowser)  
 `[09/05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
@@ -76,10 +77,10 @@ During the application development process, developers work in a specific enviro
 `[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//triggerdotdev/jsonhero-web/issues/15 'Chore: upgrade to latest remix') in [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web)  
 `[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8230`](https://github.com//prisma/prisma/issues/8230 'Cannot leave user/host blank in DATABASE_URL') in [prisma/prisma](https://github.com/prisma/prisma)  
 `[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#327`](https://github.com//Shelf-nu/shelf.nu/issues/327 'feat: add workflow with permission') in [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu)  
-`[09/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/shelf.nu](https://github.com/kunal00000/shelf.nu)  
 
 <details><summary>Show More</summary>
 
+`[09/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/shelf.nu](https://github.com/kunal00000/shelf.nu)  
 `[09/04]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20942`](https://github.com//prisma/prisma/issues/20942 'feat: emit warning on pasting private db url directly.') in [prisma/prisma](https://github.com/prisma/prisma)  
 `[09/04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20942`](https://github.com//prisma/prisma/pull/20942 'feat: emit warning on pasting private db url directly.') in [prisma/prisma](https://github.com/prisma/prisma)  
 `[09/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`emitWarning`](https://github.com/kunal00000/prisma/tree/emitWarning) in [kunal00000/prisma](https://github.com/kunal00000/prisma)  
@@ -90,7 +91,6 @@ During the application development process, developers work in a specific enviro
 `[09/03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#556`](https://github.com//aidenybai/million/issues/556 '[$30] Integrate Million.js into Typehero') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [kunal00000/typehero](https://github.com/kunal00000/typehero)  
 `[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vriteio/vrite](https://github.com/vriteio/vrite)  
-`[09/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nektos/act](https://github.com/nektos/act)  
 
 </details>
 <!--END_SECTION:activity-->
