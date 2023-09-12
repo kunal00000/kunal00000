@@ -65,6 +65,8 @@ During the application development process, developers work in a specific enviro
 
 <!--START_SECTION:activity-->
 `[09/11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
+`[09/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/million](https://github.com/kunal00000/million)  
+`[09/11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/million](https://github.com/kunal00000/million)  
 `[09/10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[09/10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
@@ -72,11 +74,11 @@ During the application development process, developers work in a specific enviro
 `[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#342`](https://github.com//Cap-go/capgo/issues/342 'Add automatic test ') in [Cap-go/capgo](https://github.com/Cap-go/capgo)  
 `[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
-`[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
-`[09/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PostHog/posthog](https://github.com/PostHog/posthog)  
 
 <details><summary>Show More</summary>
 
+`[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
+`[09/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PostHog/posthog](https://github.com/PostHog/posthog)  
 `[09/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/trpc_init](https://github.com/kunal00000/trpc_init)  
 `[09/09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/trpc_init/tree/main) in [kunal00000/trpc_init](https://github.com/kunal00000/trpc_init)  
 `[09/09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/trpc_init](https://github.com/kunal00000/trpc_init)  
@@ -86,8 +88,6 @@ During the application development process, developers work in a specific enviro
 `[09/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/million](https://github.com/kunal00000/million)  
 `[09/09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/million](https://github.com/kunal00000/million)  
-`[09/08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
-`[09/08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 
 </details>
 <!--END_SECTION:activity-->
