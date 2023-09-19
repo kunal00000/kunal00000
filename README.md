@@ -56,6 +56,7 @@ During the application development process, developers work in a specific enviro
     <a href="https://quine.sh/profile/kunal00000">
         <img src="https://stats.quine.sh/kunal00000/github" alt="Kunal's GitHub stats" width="350px">
     </a>
+[![@kunal00000's Recent Work - Last 28 days](https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=92316166&image_size=auto&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=92316166)
 </div>
 
 </details>
