@@ -67,6 +67,9 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/22]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#185`](https://github.com//danielroe/nuxt-time/pull/185 'minify at build time') in [danielroe/nuxt-time](https://github.com/danielroe/nuxt-time)  
+`[09/22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`minify`](https://github.com/kunal00000/nuxt-time/tree/minify) in [kunal00000/nuxt-time](https://github.com/kunal00000/nuxt-time)  
+`[09/22]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [danielroe/nuxt-time](https://github.com/danielroe/nuxt-time) to [kunal00000/nuxt-time](https://github.com/kunal00000/nuxt-time)  
 `[09/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [odoo/odoo](https://github.com/odoo/odoo)  
 `[09/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal)  
 `[09/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
@@ -74,12 +77,12 @@ During the application development process, developers work in a specific enviro
 `[09/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/docker_init](https://github.com/kunal00000/docker_init)  
 `[09/16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/docker_init/tree/main) in [kunal00000/docker_init](https://github.com/kunal00000/docker_init)  
 `[09/16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/docker_init](https://github.com/kunal00000/docker_init)  
-`[09/15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [oramasearch/orama](https://github.com/oramasearch/orama) to [kunal00000/orama](https://github.com/kunal00000/orama)  
-`[09/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunal00000/million](https://github.com/kunal00000/million)  
-`[09/14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#578`](https://github.com//aidenybai/million/pull/578 'Million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 
 <details><summary>Show More</summary>
 
+`[09/15]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [oramasearch/orama](https://github.com/oramasearch/orama) to [kunal00000/orama](https://github.com/kunal00000/orama)  
+`[09/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [kunal00000/million](https://github.com/kunal00000/million)  
+`[09/14]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#578`](https://github.com//aidenybai/million/pull/578 'Million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/million](https://github.com/kunal00000/million)  
 `[09/14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8230`](https://github.com//prisma/prisma/issues/8230 'Cannot leave user/host blank in DATABASE_URL') in [prisma/prisma](https://github.com/prisma/prisma)  
 `[09/14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8230`](https://github.com//prisma/prisma/issues/8230 'Cannot leave user/host blank in DATABASE_URL') in [prisma/prisma](https://github.com/prisma/prisma)  
@@ -88,9 +91,6 @@ During the application development process, developers work in a specific enviro
 `[09/12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#572`](https://github.com//aidenybai/million/pull/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
 `[09/12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
-`[09/12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/million](https://github.com/kunal00000/million)  
-`[09/11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#572`](https://github.com//aidenybai/million/issues/572 'feat: million cli') in [aidenybai/million](https://github.com/aidenybai/million)  
-`[09/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/million](https://github.com/kunal00000/million)  
 
 </details>
 <!--END_SECTION:activity-->
