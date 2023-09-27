@@ -64,6 +64,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partykit/partykit](https://github.com/partykit/partykit)  
 `[09/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)  
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/web-check](https://github.com/Lissy93/web-check)  
 `[09/23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/GraphQL_init/tree/main) in [kunal00000/GraphQL_init](https://github.com/kunal00000/GraphQL_init)  
@@ -73,10 +74,10 @@ During the application development process, developers work in a specific enviro
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages)  
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages)  
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa)  
-`[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [harness/gitness](https://github.com/harness/gitness)  
 
 <details><summary>Show More</summary>
 
+`[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [harness/gitness](https://github.com/harness/gitness)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [documenso/documenso](https://github.com/documenso/documenso)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)  
@@ -87,7 +88,6 @@ During the application development process, developers work in a specific enviro
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vadimdemedes/ink](https://github.com/vadimdemedes/ink)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [owncast/owncast](https://github.com/owncast/owncast)  
-`[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [teamhanko/hanko](https://github.com/teamhanko/hanko)  
 
 </details>
 <!--END_SECTION:activity-->
