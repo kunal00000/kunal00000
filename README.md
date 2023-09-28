@@ -5,6 +5,16 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ----
+## 🔗 &nbsp;**Socials**
+
+<p align="left"> 
+<a href="https://kunalverma2468.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="32" /></a>
+<a href="https://www.linkedin.com/in/kunalverma2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> 
+<a href="https://www.x.com/kunalvermax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="32" /></a>
+<a href="https://www.github.com/kunal00000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
+</p>
+
+----
 ## OpenSource Contributions
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
 | --- | --- | --- | --- |
@@ -28,17 +38,6 @@ In this blog, we will explore the fundamental concept of demand and supply in th
 <br/> Introduction:
 During the application development process, developers work in a specific environment, commonly referred to as the development environment. However, when it comes to deploying the application in the production environment, various chall... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
-
-----
-## 🔗 &nbsp;**Socials**
-
-<p align="left"> 
-<a href="https://kunalverma2468.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="32" /></a>
-<a href="https://www.linkedin.com/in/kunalverma2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="32" /></a> 
-<a href="https://www.twitter.com/KunalVerma2468" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="32" /></a>
-<a href="https://www.github.com/kunal00000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="32" /></a> 
-<a href="http://www.instagram.com/Kunaahl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="32" /></a>
-</p>
 
 <details>
 <summary>
