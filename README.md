@@ -51,9 +51,6 @@ During the application development process, developers work in a specific enviro
   </p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal00000&show_icons=true&locale=en" alt="kunal00000" />  
   <div style="text-align: center;">
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=92316166" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=92316166&image_size=auto&color_scheme=dark" width="496.5" height="auto" alt="@kunal00000's Recent Work - Last 28 days">
-</a>
 </div>
 
 </details>
