@@ -59,6 +59,9 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[10/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axflow/axflow](https://github.com/axflow/axflow)  
+`[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
+`[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[09/30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[09/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
 `[09/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
@@ -66,12 +69,12 @@ During the application development process, developers work in a specific enviro
 `[09/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MarsX-dev/tools-for-makers](https://github.com/MarsX-dev/tools-for-makers)  
 `[09/27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) to [kunal00000/tailcall](https://github.com/kunal00000/tailcall)  
 `[09/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partykit/partykit](https://github.com/partykit/partykit)  
-`[09/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)  
-`[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/web-check](https://github.com/Lissy93/web-check)  
-`[09/23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/GraphQL_init/tree/main) in [kunal00000/GraphQL_init](https://github.com/kunal00000/GraphQL_init)  
 
 <details><summary>Show More</summary>
 
+`[09/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)  
+`[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/web-check](https://github.com/Lissy93/web-check)  
+`[09/23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/GraphQL_init/tree/main) in [kunal00000/GraphQL_init](https://github.com/kunal00000/GraphQL_init)  
 `[09/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[09/23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/GraphQL_init](https://github.com/kunal00000/GraphQL_init)  
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [raidendotai/openv0](https://github.com/raidendotai/openv0)  
@@ -80,9 +83,6 @@ During the application development process, developers work in a specific enviro
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa)  
 `[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [harness/gitness](https://github.com/harness/gitness)  
 `[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp)  
-`[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [documenso/documenso](https://github.com/documenso/documenso)  
-`[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)  
-`[09/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [formbricks/formbricks](https://github.com/formbricks/formbricks)  
 
 </details>
 <!--END_SECTION:activity-->
