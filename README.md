@@ -59,8 +59,19 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rowyio/rowy](https://github.com/rowyio/rowy)  
+`[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partykit/partykit](https://github.com/partykit/partykit)  
+`[10/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [soketi/soketi](https://github.com/soketi/soketi)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apitable/apitable](https://github.com/apitable/apitable)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
+
+<details><summary>Show More</summary>
+
 `[10/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Contributions/tree/main) in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/04]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [heyxyz/hey](https://github.com/heyxyz/hey) to [kunal00000/hey](https://github.com/kunal00000/hey)  
@@ -69,20 +80,9 @@ During the application development process, developers work in a specific enviro
 `[10/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wasp-lang/SaaS-Template-GPT](https://github.com/wasp-lang/SaaS-Template-GPT)  
 `[10/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axflow/axflow](https://github.com/axflow/axflow)  
 `[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
-
-<details><summary>Show More</summary>
-
 `[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[09/30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[09/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
-`[09/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
-`[09/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)  
-`[09/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [MarsX-dev/tools-for-makers](https://github.com/MarsX-dev/tools-for-makers)  
-`[09/27]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [tailcallhq/tailcall](https://github.com/tailcallhq/tailcall) to [kunal00000/tailcall](https://github.com/kunal00000/tailcall)  
-`[09/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partykit/partykit](https://github.com/partykit/partykit)  
-`[09/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)  
-`[09/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lissy93/web-check](https://github.com/Lissy93/web-check)  
-`[09/23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/GraphQL_init/tree/main) in [kunal00000/GraphQL_init](https://github.com/kunal00000/GraphQL_init)  
 
 </details>
 <!--END_SECTION:activity-->
