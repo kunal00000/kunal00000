@@ -59,6 +59,8 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[10/07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [udecode/plate](https://github.com/udecode/plate) to [kunal00000/plate](https://github.com/kunal00000/plate)  
+`[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [plausible/analytics](https://github.com/plausible/analytics)  
 `[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rowyio/rowy](https://github.com/rowyio/rowy)  
 `[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [partykit/partykit](https://github.com/partykit/partykit)  
 `[10/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
@@ -67,11 +69,11 @@ During the application development process, developers work in a specific enviro
 `[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apitable/apitable](https://github.com/apitable/apitable)  
 `[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)  
 `[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 
 <details><summary>Show More</summary>
 
+`[10/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
+`[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Contributions/tree/main) in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/04]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [heyxyz/hey](https://github.com/heyxyz/hey) to [kunal00000/hey](https://github.com/kunal00000/hey)  
@@ -81,8 +83,6 @@ During the application development process, developers work in a specific enviro
 `[10/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axflow/axflow](https://github.com/axflow/axflow)  
 `[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 `[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
-`[09/30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
-`[09/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
 
 </details>
 <!--END_SECTION:activity-->
