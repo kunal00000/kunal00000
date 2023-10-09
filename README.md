@@ -59,6 +59,9 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[10/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)  
+`[10/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
+`[10/08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
 `[10/07]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [udecode/plate](https://github.com/udecode/plate) to [kunal00000/plate](https://github.com/kunal00000/plate)  
 `[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [plausible/analytics](https://github.com/plausible/analytics)  
 `[10/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rowyio/rowy](https://github.com/rowyio/rowy)  
@@ -66,12 +69,12 @@ During the application development process, developers work in a specific enviro
 `[10/07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)  
 `[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [soketi/soketi](https://github.com/soketi/soketi)  
-`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apitable/apitable](https://github.com/apitable/apitable)  
-`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)  
-`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 
 <details><summary>Show More</summary>
 
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [apitable/apitable](https://github.com/apitable/apitable)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)  
+`[10/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/Contributions/tree/main) in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
@@ -80,9 +83,6 @@ During the application development process, developers work in a specific enviro
 `[10/03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3866`](https://github.com//heyxyz/hey/issues/3866 '[ENG-267] Use cookies instead of localstorage') in [heyxyz/hey](https://github.com/heyxyz/hey)  
 `[10/03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3867`](https://github.com//heyxyz/hey/issues/3867 '[ENG-268] Migrate entire web app to Next.js app directory') in [heyxyz/hey](https://github.com/heyxyz/hey)  
 `[10/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wasp-lang/SaaS-Template-GPT](https://github.com/wasp-lang/SaaS-Template-GPT)  
-`[10/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [axflow/axflow](https://github.com/axflow/axflow)  
-`[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#212`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/212 'Automates Test Workflows') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
-`[10/01]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#8`](https://github.com//100xDevs-hkirat/Week-2-Assignments/pull/8 'Assignment') in [100xDevs-hkirat/Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments)  
 
 </details>
 <!--END_SECTION:activity-->
