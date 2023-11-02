@@ -53,6 +53,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github-20k/trending-list](https://github.com/github-20k/trending-list)  
 `[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)  
 `[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack)  
 `[10/31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
@@ -62,10 +63,10 @@ During the application development process, developers work in a specific enviro
 `[10/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
 `[10/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [webiny/webiny-js](https://github.com/webiny/webiny-js)  
 
 <details><summary>Show More</summary>
 
+`[10/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [webiny/webiny-js](https://github.com/webiny/webiny-js)  
 `[10/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Infisical/infisical](https://github.com/Infisical/infisical)  
 `[10/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors)  
@@ -76,7 +77,6 @@ During the application development process, developers work in a specific enviro
 `[10/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)  
 `[10/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Unleash/unleash](https://github.com/Unleash/unleash)  
 `[10/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/16]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) to [kunal00000/typebot.io](https://github.com/kunal00000/typebot.io)  
 
 </details>
 <!--END_SECTION:activity-->
