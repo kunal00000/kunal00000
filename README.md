@@ -53,30 +53,30 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mickasmt/next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter)  
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)  
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)  
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools)  
+`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop)  
 `[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github-20k/trending-list](https://github.com/github-20k/trending-list)  
 `[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)  
 `[11/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ykhli/local-ai-stack](https://github.com/ykhli/local-ai-stack)  
 `[10/31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Hashnode-Articles](https://github.com/kunal00000/Hashnode-Articles)  
+
+<details><summary>Show More</summary>
+
 `[10/30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Real-Dev-Squad/website-my](https://github.com/Real-Dev-Squad/website-my)  
 `[10/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kuyesu/NoteFill](https://github.com/kuyesu/NoteFill)  
 `[10/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
 `[10/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
 `[10/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-
-<details><summary>Show More</summary>
-
 `[10/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [webiny/webiny-js](https://github.com/webiny/webiny-js)  
 `[10/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Infisical/infisical](https://github.com/Infisical/infisical)  
 `[10/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 `[10/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors)  
 `[10/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Netflix/conductor](https://github.com/Netflix/conductor)  
-`[10/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [payloadcms/payload](https://github.com/payloadcms/payload)  
-`[10/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
-`[10/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)  
-`[10/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Unleash/unleash](https://github.com/Unleash/unleash)  
-`[10/17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Contributions](https://github.com/kunal00000/Contributions)  
 
 </details>
 <!--END_SECTION:activity-->
