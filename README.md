@@ -53,6 +53,7 @@ During the application development process, developers work in a specific enviro
 ## <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[11/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic)  
 `[11/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli)  
 `[11/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)  
 `[11/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)  
@@ -62,10 +63,10 @@ During the application development process, developers work in a specific enviro
 `[11/05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//theonlyjunaid/Influencer-marketplace/issues/16 '[Feat Request]- Add a creator profile page') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//theonlyjunaid/Influencer-marketplace/pull/14 'creator profile') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
-`[11/04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//theonlyjunaid/Influencer-marketplace/pull/14 'creator profile') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 
 <details><summary>Show More</summary>
 
+`[11/04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#14`](https://github.com//theonlyjunaid/Influencer-marketplace/pull/14 'creator profile') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`kunal2`](https://github.com/theonlyjunaid/Influencer-marketplace/tree/kunal2) in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
@@ -76,7 +77,6 @@ During the application development process, developers work in a specific enviro
 `[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#10`](https://github.com//theonlyjunaid/Influencer-marketplace/pull/10 'Kunal') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
-`[11/04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#5`](https://github.com//theonlyjunaid/Influencer-marketplace/pull/5 'feat: add Navbar') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 
 </details>
 <!--END_SECTION:activity-->
