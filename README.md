@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[11/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[11/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/github-activity-readme](https://github.com/kunal00000/github-activity-readme)  
 `[11/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[11/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic)  
 `[11/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli)  
-`[11/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)  
 
 <details><summary>Show More</summary>
 
+`[11/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)  
 `[11/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)  
 `[11/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//theonlyjunaid/Influencer-marketplace/issues/17 '[Code Refactor]- Change static data to dynamic data') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#17`](https://github.com//theonlyjunaid/Influencer-marketplace/issues/17 '[Code Refactor]- Change static data to dynamic data') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 `[11/05]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#16`](https://github.com//theonlyjunaid/Influencer-marketplace/issues/16 '[Feat Request]- Add a creator profile page') in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
-`[11/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [theonlyjunaid/Influencer-marketplace](https://github.com/theonlyjunaid/Influencer-marketplace)  
 
 </details>
 <!--END_SECTION:activity-->
