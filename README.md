@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
-`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/alertBounties](https://github.com/kunal00000/alertBounties)  
-`[11/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/alertBounties](https://github.com/kunal00000/alertBounties)  
-`[11/18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cap-so/cap](https://github.com/cap-so/cap)  
-`[11/15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Savjee/SavjeeCoin](https://github.com/Savjee/SavjeeCoin)  
-`[11/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/dot.io](https://github.com/kunal00000/dot.io)  
+`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
+`[11/21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#48`](https://github.com//BuilderIO/gpt-crawler/pull/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
+`[11/21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat_ci`](https://github.com/kunal00000/gpt-crawler/tree/feat_ci) in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
+`[11/21]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) to [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
 
 <details><summary>Show More</summary>
 
-`[11/14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)  
-`[11/13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/dot.io](https://github.com/kunal00000/dot.io)  
-`[11/12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sujjeee/codox](https://github.com/sujjeee/codox)  
-`[11/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunal00000/dot.io](https://github.com/kunal00000/dot.io)  
-`[11/11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jherr/trpc-on-the-app-router](https://github.com/jherr/trpc-on-the-app-router)  
-`[11/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/dot.io](https://github.com/kunal00000/dot.io)  
+`[11/21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#47`](https://github.com//BuilderIO/gpt-crawler/issues/47 'Add CI') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [payloadcms/payload](https://github.com/payloadcms/payload)  
+`[11/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hakimel/reveal.js](https://github.com/hakimel/reveal.js)  
+`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/alertBounties](https://github.com/kunal00000/alertBounties)  
+`[11/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/alertBounties](https://github.com/kunal00000/alertBounties)  
+`[11/18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cap-so/cap](https://github.com/cap-so/cap)  
 
 </details>
 <!--END_SECTION:activity-->
