@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[11/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
+`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//BuilderIO/gpt-crawler/issues/88 'feat: add prettier check') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//BuilderIO/gpt-crawler/issues/88 'feat: add prettier check') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#48`](https://github.com//BuilderIO/gpt-crawler/issues/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/28]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#48`](https://github.com//BuilderIO/gpt-crawler/pull/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+
+<details><summary>Show More</summary>
+
+`[11/28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#88`](https://github.com//BuilderIO/gpt-crawler/pull/88 'feat: add prettier check') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
+`[11/28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`ci_prettier`](https://github.com/kunal00000/gpt-crawler/tree/ci_prettier) in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
 `[11/27]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#48`](https://github.com//BuilderIO/gpt-crawler/issues/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
 `[11/27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `78` commits in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
 `[11/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)  
 `[11/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gannonh/chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector)  
-`[11/26]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#48`](https://github.com//BuilderIO/gpt-crawler/issues/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
-
-<details><summary>Show More</summary>
-
-`[11/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `34` commits in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
-`[11/26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#48`](https://github.com//BuilderIO/gpt-crawler/pull/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
-`[11/24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tkssharma/nodejs-microservices-patterns](https://github.com/tkssharma/nodejs-microservices-patterns)  
-`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/scrape-from-webpage](https://github.com/kunal00000/scrape-from-webpage)  
-`[11/21]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#48`](https://github.com//BuilderIO/gpt-crawler/pull/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
-`[11/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
 
 </details>
 <!--END_SECTION:activity-->
