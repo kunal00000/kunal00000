@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[12/19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/scalable-chat-system](https://github.com/kunal00000/scalable-chat-system)  
+`[12/19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/scalable-chat-system/tree/main) in [kunal00000/scalable-chat-system](https://github.com/kunal00000/scalable-chat-system)  
+`[12/19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/scalable-chat-system](https://github.com/kunal00000/scalable-chat-system)  
 `[12/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lockys/AwesomeSearch2021](https://github.com/lockys/AwesomeSearch2021)  
 `[12/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)  
-`[12/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)  
-`[12/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [megahertz/react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg)  
-`[12/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)  
 
 <details><summary>Show More</summary>
 
+`[12/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [basementstudio/scrollytelling](https://github.com/basementstudio/scrollytelling)  
+`[12/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [megahertz/react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg)  
+`[12/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)  
 `[12/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource)  
 `[12/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design)  
 `[11/28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/gpt-crawler](https://github.com/kunal00000/gpt-crawler)  
-`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//BuilderIO/gpt-crawler/issues/88 'feat: add prettier check') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
-`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//BuilderIO/gpt-crawler/issues/88 'feat: add prettier check') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
-`[11/28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#48`](https://github.com//BuilderIO/gpt-crawler/issues/48 'feat: add ci for prettier check and build') in [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)  
 
 </details>
 <!--END_SECTION:activity-->
