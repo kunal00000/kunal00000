@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[01/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[01/01]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//kunal00000/DocuConvo/pull/9 'docs info pages') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[12/31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//kunal00000/DocuConvo/issues/9 'docs info pages') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 `[12/31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 `[12/29]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//kunal00000/DocuConvo/issues/7 'Warning: Each child in a list should have a unique "key" prop.') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[12/29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[12/26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//kunal00000/DocuConvo/issues/7 'Warning: Each child in a list should have a unique "key" prop.') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[12/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 
 <details><summary>Show More</summary>
 
+`[12/29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[12/26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//kunal00000/DocuConvo/issues/7 'Warning: Each child in a list should have a unique "key" prop.') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[12/26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 `[12/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [kunal00000/chat-app](https://github.com/kunal00000/chat-app)  
 `[12/25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/chat-app/tree/main) in [kunal00000/chat-app](https://github.com/kunal00000/chat-app)  
 `[12/25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/chat-app](https://github.com/kunal00000/chat-app)  
-`[12/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[12/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[12/22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 
 </details>
 <!--END_SECTION:activity-->
