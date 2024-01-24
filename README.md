@@ -51,7 +51,7 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
-`[01/22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[01/23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 `[01/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)  
 `[01/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
 `[01/21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#15`](https://github.com//kunal00000/DocuConvo/pull/15 'chore : removed signin button and renamed loginpage -> login') in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
