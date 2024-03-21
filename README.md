@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[03/20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [kunal00000/serverless-docuconvo](https://github.com/kunal00000/serverless-docuconvo)  
+`[03/20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/serverless-docuconvo/tree/main) in [kunal00000/serverless-docuconvo](https://github.com/kunal00000/serverless-docuconvo)  
+`[03/20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/serverless-docuconvo](https://github.com/kunal00000/serverless-docuconvo)  
 `[03/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xenova/transformers.js](https://github.com/xenova/transformers.js)  
 `[03/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/search-engine](https://github.com/kunal00000/search-engine)  
-`[03/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
-`[03/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/DocuConvo-core](https://github.com/kunal00000/DocuConvo-core)  
-`[03/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/PDF-GPT](https://github.com/kunal00000/PDF-GPT)  
 
 <details><summary>Show More</summary>
 
+`[03/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/DocuConvo](https://github.com/kunal00000/DocuConvo)  
+`[03/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/DocuConvo-core](https://github.com/kunal00000/DocuConvo-core)  
+`[03/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/PDF-GPT](https://github.com/kunal00000/PDF-GPT)  
 `[03/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sujjeee/gemai](https://github.com/sujjeee/gemai)  
 `[03/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)  
 `[02/29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)  
-`[02/29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/alertBounties](https://github.com/kunal00000/alertBounties)  
-`[02/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [officialrajdeepsingh/awesome-nextjs](https://github.com/officialrajdeepsingh/awesome-nextjs)  
-`[02/25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/DocuConvo-core](https://github.com/kunal00000/DocuConvo-core)  
 
 </details>
 <!--END_SECTION:activity-->
