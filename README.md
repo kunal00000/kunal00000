@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[05/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adityadafe/load-balancer](https://github.com/adityadafe/load-balancer)  
 `[05/17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//mrmartineau/Otter/issues/5 'Cannot Signin') in [mrmartineau/Otter](https://github.com/mrmartineau/Otter)  
 `[05/16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//mrmartineau/Otter/issues/5 'Cannot Signin') in [mrmartineau/Otter](https://github.com/mrmartineau/Otter)  
 `[05/11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [upstash/semantic-cache](https://github.com/upstash/semantic-cache)  
 `[05/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/notesGPT](https://github.com/Nutlope/notesGPT)  
-`[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#291`](https://github.com//EOS-uiux-Solutions/user-story/pull/291 '[Feature] Reflect network requests on button') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 
 <details><summary>Show More</summary>
 
+`[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#291`](https://github.com//EOS-uiux-Solutions/user-story/pull/291 '[Feature] Reflect network requests on button') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 `[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#299`](https://github.com//EOS-uiux-Solutions/user-story/pull/299 'Fixed edit comment bug') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 `[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#297`](https://github.com//EOS-uiux-Solutions/user-story/pull/297 'fixed disable property of prev and next button') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 `[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#296`](https://github.com//EOS-uiux-Solutions/user-story/pull/296 'Updated alignment of attachment icon in Comment Form') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 `[05/08]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-close.png" align="top" height="18"> Closed PR [`#293`](https://github.com//EOS-uiux-Solutions/user-story/pull/293 '[Bug] Empty toast error') in [EOS-uiux-Solutions/user-story](https://github.com/EOS-uiux-Solutions/user-story)  
 `[05/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mendableai/firecrawl](https://github.com/mendableai/firecrawl)  
-`[05/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai)  
 
 </details>
 <!--END_SECTION:activity-->
