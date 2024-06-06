@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)  
+`[06/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
+`[06/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/logspeed/tree/main) in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
+`[06/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
+`[06/05]` undefined  
+
+<details><summary>Show More</summary>
+
+`[06/05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#201`](https://github.com//foyer-work/cdn-files/pull/201 'chore: add bonkers models data to cdn') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[06/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ItzCrazyKns/Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)  
 `[06/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)  
 `[06/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient)  
 `[06/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neondatabase/ask-neon](https://github.com/neondatabase/ask-neon)  
 `[06/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox)  
-
-<details><summary>Show More</summary>
-
-`[06/01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter)  
-`[05/27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vercel/ai](https://github.com/vercel/ai)  
-`[05/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arpittiwari24/Coding-Challenges](https://github.com/arpittiwari24/Coding-Challenges)  
-`[05/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [adityadafe/load-balancer](https://github.com/adityadafe/load-balancer)  
-`[05/17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//mrmartineau/Otter/issues/5 'Cannot Signin') in [mrmartineau/Otter](https://github.com/mrmartineau/Otter)  
-`[05/16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//mrmartineau/Otter/issues/5 'Cannot Signin') in [mrmartineau/Otter](https://github.com/mrmartineau/Otter)  
 
 </details>
 <!--END_SECTION:activity-->
