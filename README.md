@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)  
 `[06/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lakshaybhushan/what-the-hack](https://github.com/lakshaybhushan/what-the-hack)  
 `[06/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)  
 `[06/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 `[06/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/logspeed/tree/main) in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
-`[06/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 
 <details><summary>Show More</summary>
 
+`[06/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 `[06/05]` undefined  
 `[06/05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#201`](https://github.com//foyer-work/cdn-files/pull/201 'chore: add bonkers models data to cdn') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[06/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ItzCrazyKns/Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)  
 `[06/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples)  
 `[06/03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient)  
-`[06/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [neondatabase/ask-neon](https://github.com/neondatabase/ask-neon)  
 
 </details>
 <!--END_SECTION:activity-->
