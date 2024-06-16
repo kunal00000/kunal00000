@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[06/15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/Yoopta-editor](https://github.com/kunal00000/Yoopta-editor)  
+`[06/15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [with-tw/cookies](https://github.com/with-tw/cookies)  
 `[06/12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension)  
 `[06/09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Dhravya/durable-ai-chat-example](https://github.com/Dhravya/durable-ai-chat-example)  
 `[06/07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)  
-`[06/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lakshaybhushan/what-the-hack](https://github.com/lakshaybhushan/what-the-hack)  
-`[06/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)  
 
 <details><summary>Show More</summary>
 
+`[06/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lakshaybhushan/what-the-hack](https://github.com/lakshaybhushan/what-the-hack)  
+`[06/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)  
 `[06/05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 `[06/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/logspeed/tree/main) in [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 `[06/05]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/logspeed](https://github.com/kunal00000/logspeed)  
 `[06/05]` undefined  
-`[06/05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#201`](https://github.com//foyer-work/cdn-files/pull/201 'chore: add bonkers models data to cdn') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[06/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ItzCrazyKns/Neon-Image-Search](https://github.com/ItzCrazyKns/Neon-Image-Search)  
 
 </details>
 <!--END_SECTION:activity-->
