@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 `[08/04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 `[08/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/kotion-mobile/tree/main) in [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
-`[07/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)  
 
 <details><summary>Show More</summary>
 
+`[07/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)  
 `[07/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)  
 `[07/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [javierbyte/depth-of-field](https://github.com/javierbyte/depth-of-field)  
 `[07/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [code-hike/bright](https://github.com/code-hike/bright)  
 `[07/17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [code-hike/lighter](https://github.com/code-hike/lighter)  
 `[07/08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mxkaske/mxkaske.dev](https://github.com/mxkaske/mxkaske.dev)  
-`[07/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/github-forks](https://github.com/kunal00000/github-forks)  
 
 </details>
 <!--END_SECTION:activity-->
