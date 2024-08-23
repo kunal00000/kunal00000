@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anthropics/courses](https://github.com/anthropics/courses)  
 `[08/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)  
 `[08/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)  
 `[08/11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives)  
 `[08/10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  
-`[08/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts)  
 
 <details><summary>Show More</summary>
 
+`[08/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 `[08/04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 `[08/04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/kotion-mobile/tree/main) in [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 `[07/26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)  
-`[07/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Nutlope/llamatutor](https://github.com/Nutlope/llamatutor)  
 
 </details>
 <!--END_SECTION:activity-->
