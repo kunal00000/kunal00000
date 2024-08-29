@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[08/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaggad/crunker](https://github.com/jaggad/crunker)  
 `[08/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream)  
 `[08/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ricky0123/vad](https://github.com/ricky0123/vad)  
 `[08/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anthropics/courses](https://github.com/anthropics/courses)  
 `[08/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)  
-`[08/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)  
 
 <details><summary>Show More</summary>
 
+`[08/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)  
 `[08/11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives)  
 `[08/10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  
 `[08/06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/kunal00000](https://github.com/kunal00000/kunal00000)  
 `[08/04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
-`[08/04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/kotion-mobile](https://github.com/kunal00000/kotion-mobile)  
 
 </details>
 <!--END_SECTION:activity-->
