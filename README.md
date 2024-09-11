@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[09/11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#214`](https://github.com//foyer-work/cdn-files/pull/214 'chore: add wallflower models') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[09/11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/wallflowerModels`](https://github.com/foyer-work/cdn-files/tree/feat/wallflowerModels) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[09/11]` undefined  
+`[09/11]` undefined  
 `[09/09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/image-rename](https://github.com/kunal00000/image-rename)  
+
+<details><summary>Show More</summary>
+
 `[09/01]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/cv/tree/main) in [kunal00000/cv](https://github.com/kunal00000/cv)  
 `[09/01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/cv](https://github.com/kunal00000/cv)  
 `[09/01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/image-rename](https://github.com/kunal00000/image-rename)  
 `[08/28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jaggad/crunker](https://github.com/jaggad/crunker)  
-
-<details><summary>Show More</summary>
-
 `[08/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream)  
 `[08/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ricky0123/vad](https://github.com/ricky0123/vad)  
-`[08/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [anthropics/courses](https://github.com/anthropics/courses)  
-`[08/20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [atinux/my-pull-requests](https://github.com/atinux/my-pull-requests)  
-`[08/16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)  
-`[08/11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ibelick/motion-primitives](https://github.com/ibelick/motion-primitives)  
 
 </details>
 <!--END_SECTION:activity-->
