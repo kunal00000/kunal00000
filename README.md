@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[10/16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/realtime-integration](https://github.com/foyer-work/realtime-integration)  
 `[10/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/NewsCast](https://github.com/kunal00000/NewsCast)  
 `[10/15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/realtime-integration](https://github.com/kunal00000/realtime-integration)  
 `[10/15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [stackblitz/use-stick-to-bottom](https://github.com/stackblitz/use-stick-to-bottom)  
 `[10/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/realtime-integration](https://github.com/kunal00000/realtime-integration)  
-`[10/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/openai-realtime-console](https://github.com/kunal00000/openai-realtime-console)  
 
 <details><summary>Show More</summary>
 
+`[10/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/openai-realtime-console](https://github.com/kunal00000/openai-realtime-console)  
 `[10/14]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) to [kunal00000/openai-realtime-console](https://github.com/kunal00000/openai-realtime-console)  
 `[10/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openai/openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta)  
 `[10/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console)  
 `[10/13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [kunal00000/realtime-integration](https://github.com/kunal00000/realtime-integration)  
 `[10/13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/realtime-integration/tree/main) in [kunal00000/realtime-integration](https://github.com/kunal00000/realtime-integration)  
-`[10/13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/realtime-integration](https://github.com/kunal00000/realtime-integration)  
 
 </details>
 <!--END_SECTION:activity-->
