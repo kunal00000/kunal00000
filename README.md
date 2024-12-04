@@ -64,10 +64,6 @@
 `[11/05]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#223`](https://github.com//foyer-work/cdn-files/pull/223 'feat: add Recraft V3 model for wallflower') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[11/05]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/recraftv3`](https://github.com/foyer-work/cdn-files/tree/feat/recraftv3) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[11/05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)  
-`[11/02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DrewThomasson/offlineYoutube](https://github.com/DrewThomasson/offlineYoutube)  
-
-</details>
-<!--END_SECTION:activity-->
   
 
 <div align="center">
