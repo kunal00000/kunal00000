@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[01/10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/excuse-pro](https://github.com/kunal00000/excuse-pro)  
+`[01/10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/excuse-pro/tree/main) in [kunal00000/excuse-pro](https://github.com/kunal00000/excuse-pro)  
 `[01/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avayyyyyyy/snippet.today](https://github.com/avayyyyyyy/snippet.today)  
 `[12/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VikParuchuri/marker](https://github.com/VikParuchuri/marker)  
 `[12/16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#226`](https://github.com//foyer-work/cdn-files/issues/226 'refactor(wallflower): replace isInpaintAvailable with featureSupport') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[12/16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#226`](https://github.com//foyer-work/cdn-files/pull/226 'refactor(wallflower): replace isInpaintAvailable with featureSupport') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[12/16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/wallflowerModels`](https://github.com/foyer-work/cdn-files/tree/refactor/wallflowerModels) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 
 <details><summary>Show More</summary>
 
+`[12/16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#226`](https://github.com//foyer-work/cdn-files/pull/226 'refactor(wallflower): replace isInpaintAvailable with featureSupport') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[12/16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/wallflowerModels`](https://github.com/foyer-work/cdn-files/tree/refactor/wallflowerModels) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[12/15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/tools-kit](https://github.com/kunal00000/tools-kit)  
 `[12/14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kunal00000/Blogblocks](https://github.com/kunal00000/Blogblocks)  
 `[12/14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [kunal00000/merlin-hacks](https://github.com/kunal00000/merlin-hacks)  
 `[12/13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/merlin-hacks/tree/main) in [kunal00000/merlin-hacks](https://github.com/kunal00000/merlin-hacks)  
-`[12/13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/merlin-hacks](https://github.com/kunal00000/merlin-hacks)  
-`[12/13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [kunal00000/Blogblocks](https://github.com/kunal00000/Blogblocks)  
 
 </details>
 <!--END_SECTION:activity-->
