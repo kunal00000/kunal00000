@@ -51,20 +51,20 @@
 ### <img src="https://user-images.githubusercontent.com/78906777/188445101-0e194c65-f4c6-4a3b-b37d-e7a50ac1cfe2.png" height="25" width="25" alt="Github"/> Recent Github Activity
 
 <!--START_SECTION:activity-->
+`[01/25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [huggingface/transformers.js-examples](https://github.com/huggingface/transformers.js-examples)  
 `[01/23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit)  
 `[01/22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [miniLLMFlow/PocketFlow](https://github.com/miniLLMFlow/PocketFlow)  
 `[01/17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//dulnan/lazy-brush/issues/8 'Support for faded edges on brush?') in [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush)  
 `[01/10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/excuse-pro](https://github.com/kunal00000/excuse-pro)  
-`[01/10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/excuse-pro/tree/main) in [kunal00000/excuse-pro](https://github.com/kunal00000/excuse-pro)  
 
 <details><summary>Show More</summary>
 
+`[01/10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/kunal00000/excuse-pro/tree/main) in [kunal00000/excuse-pro](https://github.com/kunal00000/excuse-pro)  
 `[01/04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avayyyyyyy/snippet.today](https://github.com/avayyyyyyy/snippet.today)  
 `[12/21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VikParuchuri/marker](https://github.com/VikParuchuri/marker)  
 `[12/16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#226`](https://github.com//foyer-work/cdn-files/issues/226 'refactor(wallflower): replace isInpaintAvailable with featureSupport') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[12/16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#226`](https://github.com//foyer-work/cdn-files/pull/226 'refactor(wallflower): replace isInpaintAvailable with featureSupport') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[12/16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/wallflowerModels`](https://github.com/foyer-work/cdn-files/tree/refactor/wallflowerModels) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[12/15]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [kunal00000/tools-kit](https://github.com/kunal00000/tools-kit)  
 
 </details>
 <!--END_SECTION:activity-->
