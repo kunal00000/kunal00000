@@ -62,12 +62,6 @@
 `[02/17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/compressed-images`](https://github.com/foyer-work/cdn-files/tree/refactor/compressed-images) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[02/11]` undefined  
 `[02/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[02/06]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#233`](https://github.com//foyer-work/cdn-files/pull/233 'feat(bonkers): update models and styles ') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[02/06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-`[02/06]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feat/bonkers-model_styles-thumbnails`](https://github.com/foyer-work/cdn-files/tree/feat/bonkers-model_styles-thumbnails) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
-
-</details>
-<!--END_SECTION:activity-->
 `[12/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [kunal00000/Blogblocks](https://github.com/kunal00000/Blogblocks)  
 `[11/30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HumeAI/hume-evi-next-js-starter](https://github.com/HumeAI/hume-evi-next-js-starter)  
 `[11/25]` undefined  
