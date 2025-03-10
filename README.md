@@ -62,6 +62,17 @@
 `[02/17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/compressed-images`](https://github.com/foyer-work/cdn-files/tree/refactor/compressed-images) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[02/11]` undefined  
 `[02/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[02/24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)  
+`[02/22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/Blogblocks](https://github.com/kunal00000/Blogblocks)  
+`[02/18]` undefined  
+`[02/18]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#236`](https://github.com//foyer-work/cdn-files/pull/236 'refactor(bonkers): use compressed images stored on gcs') in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[02/18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+
+<details><summary>Show More</summary>
+
+`[02/17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`refactor/compressed-images`](https://github.com/foyer-work/cdn-files/tree/refactor/compressed-images) in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
+`[02/11]` undefined  
+`[02/11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [foyer-work/cdn-files](https://github.com/foyer-work/cdn-files)  
 `[12/02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [kunal00000/Blogblocks](https://github.com/kunal00000/Blogblocks)  
 `[11/30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [HumeAI/hume-evi-next-js-starter](https://github.com/HumeAI/hume-evi-next-js-starter)  
 `[11/25]` undefined  
