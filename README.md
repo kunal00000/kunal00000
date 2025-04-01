@@ -63,6 +63,8 @@
 `[03/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)  
 `[03/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/position-sizing-calculator](https://github.com/kunal00000/position-sizing-calculator)  
 `[03/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)  
+`[03/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/position-sizing-calculator](https://github.com/kunal00000/position-sizing-calculator)  
+`[03/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)  
 `[02/24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)  
 `[03/21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [kunal00000/position-sizing-calculator](https://github.com/kunal00000/position-sizing-calculator)  
 `[03/13]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)  
